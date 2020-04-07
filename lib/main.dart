@@ -125,7 +125,7 @@ class Grade extends StatelessWidget {
             ),
             Center(
               child: CircleAvatar(
-                backgroundImage: AssetImage('assets/zzang9.png'),
+                backgroundImage: AssetImage('assets/zzangu.png'),
                 radius: 40.0,
                 backgroundColor: Colors.amber[800],
               ),
